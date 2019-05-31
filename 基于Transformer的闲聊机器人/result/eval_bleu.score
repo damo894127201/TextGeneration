@@ -1,0 +1,100 @@
+Epoch 1 bleu_score 1 : 1.591992838689856
+Epoch 1 bleu_score 2 : 0.8725491887359983
+Epoch 1 bleu_score 3 : 0.8712844181611948
+Epoch 1 bleu_score 4 : 0.0013788960619865779
+
+Epoch 2 bleu_score 1 : 5.2077137888294
+Epoch 2 bleu_score 2 : 2.2253442548548863
+Epoch 2 bleu_score 3 : 2.062201199174838
+Epoch 2 bleu_score 4 : 0.009583251787695687
+
+Epoch 3 bleu_score 1 : 4.18169861354133
+Epoch 3 bleu_score 2 : 1.8724735319649535
+Epoch 3 bleu_score 3 : 1.7301915881954129
+Epoch 3 bleu_score 4 : 0.03747835172058609
+
+Epoch 4 bleu_score 1 : 4.887393847478318
+Epoch 4 bleu_score 2 : 2.3807485936848125
+Epoch 4 bleu_score 3 : 2.204015181274357
+Epoch 4 bleu_score 4 : 0.04069353954687052
+
+Epoch 5 bleu_score 1 : 4.175447571551053
+Epoch 5 bleu_score 2 : 2.0065632685680845
+Epoch 5 bleu_score 3 : 1.846300880118356
+Epoch 5 bleu_score 4 : 0.06257982013784213
+
+Epoch 6 bleu_score 1 : 5.557592650095162
+Epoch 6 bleu_score 2 : 2.735365850826455
+Epoch 6 bleu_score 3 : 2.6119788750639517
+Epoch 6 bleu_score 4 : 0.09202682034300884
+
+Epoch 7 bleu_score 1 : 4.374576978518556
+Epoch 7 bleu_score 2 : 2.182897528573494
+Epoch 7 bleu_score 3 : 1.9972284398226472
+Epoch 7 bleu_score 4 : 0.07138847458891186
+
+Epoch 8 bleu_score 1 : 4.439579735305229
+Epoch 8 bleu_score 2 : 2.12285997865817
+Epoch 8 bleu_score 3 : 1.9392637424645194
+Epoch 8 bleu_score 4 : 0.07752103337268973
+
+Epoch 9 bleu_score 1 : 4.472466087282081
+Epoch 9 bleu_score 2 : 2.0974383927812106
+Epoch 9 bleu_score 3 : 1.9082580608012565
+Epoch 9 bleu_score 4 : 0.11757081009640578
+
+Epoch 10 bleu_score 1 : 4.071432325995361
+Epoch 10 bleu_score 2 : 1.800784636044804
+Epoch 10 bleu_score 3 : 1.6371347235295768
+Epoch 10 bleu_score 4 : 0.10799043801634817
+
+Epoch 11 bleu_score 1 : 5.383973816450234
+Epoch 11 bleu_score 2 : 2.651958618383803
+Epoch 11 bleu_score 3 : 2.4173935003228526
+Epoch 11 bleu_score 4 : 0.22012770513842153
+
+Epoch 12 bleu_score 1 : 5.33490824844139
+Epoch 12 bleu_score 2 : 2.609079510678299
+Epoch 12 bleu_score 3 : 2.4055742342649196
+Epoch 12 bleu_score 4 : 0.20141880518215696
+
+Epoch 13 bleu_score 1 : 4.792646499898194
+Epoch 13 bleu_score 2 : 2.1559601292552855
+Epoch 13 bleu_score 3 : 1.8688132612081
+Epoch 13 bleu_score 4 : 0.21760784843774364
+
+Epoch 14 bleu_score 1 : 4.963577295778282
+Epoch 14 bleu_score 2 : 2.323150766042407
+Epoch 14 bleu_score 3 : 2.033818181705245
+Epoch 14 bleu_score 4 : 0.23489952207246223
+
+Epoch 15 bleu_score 1 : 5.081926813122326
+Epoch 15 bleu_score 2 : 2.3383502790008337
+Epoch 15 bleu_score 3 : 2.0859744985852844
+Epoch 15 bleu_score 4 : 0.2773212901984082
+
+Epoch 16 bleu_score 1 : 4.771949086976005
+Epoch 16 bleu_score 2 : 2.2910693106032114
+Epoch 16 bleu_score 3 : 2.0014917686475937
+Epoch 16 bleu_score 4 : 0.21875319093440487
+
+Epoch 17 bleu_score 1 : 5.050799560172012
+Epoch 17 bleu_score 2 : 2.289773760780657
+Epoch 17 bleu_score 3 : 2.0193731941313633
+Epoch 17 bleu_score 4 : 0.21941137171621133
+
+Epoch 18 bleu_score 1 : 5.47867200503922
+Epoch 18 bleu_score 2 : 2.506145429707525
+Epoch 18 bleu_score 3 : 2.233076241174472
+Epoch 18 bleu_score 4 : 0.2860552836967984
+
+Epoch 19 bleu_score 1 : 4.9836539495508685
+Epoch 19 bleu_score 2 : 2.3921677298358865
+Epoch 19 bleu_score 3 : 2.1281463104080114
+Epoch 19 bleu_score 4 : 0.27572179323786916
+
+Epoch 20 bleu_score 1 : 5.143716962584651
+Epoch 20 bleu_score 2 : 2.3895299930546754
+Epoch 20 bleu_score 3 : 2.095869233962901
+Epoch 20 bleu_score 4 : 0.32657339995308515
+
